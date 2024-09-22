@@ -13,7 +13,7 @@ package WordGames;
          */
         public String addHelloWord(String word) {
 
-            return "Hello " + word;
+            return "Good " + word;
         }
 
         /**
@@ -40,7 +40,7 @@ package WordGames;
             WordGames wordGames = new WordGames();
 
             // Test addHelloWord method and print the result
-            String helloResult = wordGames.addHelloWord("World");
+            String helloResult = wordGames.addHelloWord("Morning!");
             System.out.println(helloResult);
 
             // Test getFullName method and print the result
