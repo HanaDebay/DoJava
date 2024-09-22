@@ -1,6 +1,6 @@
 // Author: Hana Debay
 // The ArithmeticOperators class provides basic arithmetic operations such as
-// addition, subtraction, multiplication, and division.
+// addition,subtraction, multiplication, and division.
 
 class ArithmeticOperators {
 
